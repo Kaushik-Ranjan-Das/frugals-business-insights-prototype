@@ -1,0 +1,21 @@
+﻿outlet_id,outlet_name,address,city,state,zip,prod_id,mth_sales_1,mth_sales_2,mth_sales_3,mth_sales_4,mth_sales_5,mth_sales_6,mth_sales_7,mth_sales_8,mth_sales_9,mth_sales_10,mth_sales_11,mth_sales_12,mth_sales_13,mth_sales_14,mth_sales_15,mth_sales_16,mth_sales_17,mth_sales_18,mth_sales_19,mth_sales_20,mth_sales_21,mth_sales_22,mth_sales_23,mth_sales_24
+ot_id_1,Simmons and Sons Wellness Center,9776 Aguilar Prairie Suite 155,North Elizabethstad,PA,71689,Prod102,15,5,14,10,9,8,10,7,7,9,1,7,9,15,3,10,6,4,5,5,13,3,8,0
+ot_id_2,Anderson and Sons Pharmacy,6928 Amber Square Suite 583,East Rachaelside,FL,51418,Prod101,1,4,1,12,0,10,2,5,14,8,4,14,11,10,14,8,11,5,5,1,7,12,4,0
+ot_id_3,Davis-Rice Wellness Center,9506 Johnny Corners,Lake Nancy,PA,21225,Prod101,10,14,10,4,10,11,10,1,7,0,0,9,13,15,3,13,15,10,12,4,7,4,2,11
+ot_id_4,Smith-Hickman VA,86836 Collins Road Suite 730,Desireeborough,TX,45137,Prod101,11,6,2,0,14,6,1,9,0,8,1,12,11,11,8,1,3,12,11,0,6,2,13,3
+ot_id_5,"Fowler, Greene and Harper Hospital",66436 Crystal Course,North Lauratown,WA,59248,Prod101,12,14,7,10,13,7,1,10,10,5,15,5,6,1,12,12,9,7,12,8,11,14,8,8
+ot_id_6,"Anderson, Ellis and Rowe Wellness Center",8580 Alan Falls Suite 758,West Jenniferfurt,WA,81901,Prod103,5,0,8,4,13,15,11,13,0,6,9,14,3,12,13,15,3,10,5,14,2,10,2,1
+ot_id_7,Williams-Stephens Pharmacy,2042 Cummings Stravenue,West Carlaburgh,MA,93983,Prod102,8,0,5,0,13,11,14,3,3,10,7,10,0,1,13,2,7,9,1,8,3,6,1,11
+ot_id_8,Lewis LLC VA,01808 Gilmore Track Apt. 819,Lake Margaretfurt,PA,62327,Prod102,3,12,15,12,12,1,12,14,9,5,15,0,3,11,0,5,5,10,1,6,1,0,7,0
+ot_id_9,Anderson-Martinez Wellness Center,2740 Smith Union,Lake Ryanfort,OH,00515,Prod102,2,11,7,9,15,12,11,13,9,8,11,2,10,5,3,1,0,8,7,11,3,12,10,14
+ot_id_10,Callahan-Wiley Pharmacy,78512 Christopher Common Suite 120,Kellyville,IL,50555,Prod103,7,8,1,13,14,12,9,8,4,7,8,5,11,13,4,2,10,11,15,13,5,11,2,11
+ot_id_11,Williams-Sutton VA,9165 Michelle Walks,South Brian,PA,12486,Prod102,8,7,5,13,5,12,5,9,7,3,13,0,9,6,0,15,0,11,1,0,14,3,2,5
+ot_id_12,Murray-Martinez Pharmacy,0859 Jennifer Dale Apt. 526,Blankenshipburgh,NY,89723,Prod103,3,5,14,5,10,6,11,8,3,0,3,5,7,3,4,11,7,4,9,2,1,2,5,1
+ot_id_13,"Riley, Smith and Brown Pharmacy",129 Kim Brook Apt. 035,East Charlesbury,NY,48718,Prod101,4,10,10,0,13,1,9,9,7,5,3,2,2,13,10,0,8,7,1,2,10,9,1,8
+ot_id_14,Duncan-Carter VA,77085 Michael Pine,Lake Shirleyland,MA,82867,Prod103,7,1,5,0,8,9,5,3,10,10,2,15,6,8,14,5,3,0,8,13,13,4,12,1
+ot_id_15,Collier LLC Clinic,136 Mann Cliffs,Timothyburgh,NY,38518,Prod101,12,5,5,10,5,11,2,6,14,11,6,5,8,11,0,8,10,6,5,7,12,6,7,11
+ot_id_16,Cooper PLC Clinic,0787 Steven Court,East Christinetown,TX,12611,Prod101,11,0,11,7,12,10,11,13,3,15,6,1,13,9,3,5,10,6,11,1,2,0,8,5
+ot_id_17,Mendez-Williamson Wellness Center,8290 Christopher Plains Apt. 429,Coleburgh,GA,21785,Prod102,13,10,6,14,3,6,12,10,15,13,2,11,11,5,3,0,6,9,9,15,3,11,15,11
+ot_id_18,Parker Ltd VA,0895 Powers Manor Apt. 926,East Jamieton,CA,46437,Prod101,2,11,6,11,7,15,5,11,15,0,12,1,15,2,3,6,8,12,11,5,12,8,9,8
+ot_id_19,Gilbert Ltd Clinic,6088 Sarah Forge,Lake Eric,FL,36638,Prod101,3,14,8,6,11,5,10,10,1,12,3,11,1,2,13,2,6,12,14,1,2,1,4,8
+ot_id_20,Carpenter Inc Pharmacy,220 Myers Ford,New Mark,TX,65041,Prod102,0,5,7,1,8,3,8,10,7,14,6,11,13,0,11,10,3,12,12,9,15,15,12,6

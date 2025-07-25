@@ -1,0 +1,857 @@
+﻿Prescriber ID,Call Date,Message Id,Channel,RepId,Call Type
+PRESC999,7/17/25,M1,In Person,Rep1,Call Only
+PRESC998,7/16/25,M2,Video,Rep2,Call with Detail
+PRESC997,7/15/25,M3,In Person,Rep3,Call with CLM Presentation
+PRESC996,7/14/25,M4,Video,Rep4,Call with Key Messages
+PRESC995,7/13/25,M5,In Person,Rep5,Call with Samples
+PRESC994,7/12/25,M6,Video,Rep6,Call with Emails
+PRESC993,7/11/25,M7,Presentation,Rep7,Call Only
+PRESC992,7/10/25,M8,In Person,Rep8,Call with Detail
+PRESC991,7/9/25,M9,Video,Rep9,Call with CLM Presentation
+PRESC990,7/8/25,M10,In Person,Rep10,Call with Key Messages
+PRESC99,7/7/25,M11,Video,Rep11,Call with Samples
+PRESC989,7/6/25,M12,In Person,Rep12,Call with Emails
+PRESC988,7/5/25,M13,Video,Rep13,Call Only
+PRESC987,7/4/25,M14,Presentation,Rep14,Call with Detail
+PRESC986,7/3/25,M1,In Person,Rep15,Call with CLM Presentation
+PRESC985,7/2/25,M2,Video,Rep16,Call with Key Messages
+PRESC984,7/1/25,M3,In Person,Rep17,Call with Samples
+PRESC983,6/30/25,M4,Video,Rep18,Call with Emails
+PRESC982,6/29/25,M5,In Person,Rep19,Call Only
+PRESC981,6/28/25,M6,Video,Rep20,Call with Detail
+PRESC980,6/27/25,M7,Presentation,Rep1,Call with CLM Presentation
+PRESC98,6/26/25,M8,In Person,Rep2,Call with Key Messages
+PRESC979,6/25/25,M9,Video,Rep3,Call with Samples
+PRESC978,6/24/25,M10,In Person,Rep4,Call with Emails
+PRESC977,6/23/25,M11,Video,Rep5,Call Only
+PRESC976,6/22/25,M12,In Person,Rep6,Call with Detail
+PRESC975,6/21/25,M13,Video,Rep7,Call with CLM Presentation
+PRESC974,6/20/25,M14,Presentation,Rep8,Call with Key Messages
+PRESC973,6/19/25,M1,In Person,Rep9,Call with Samples
+PRESC972,6/18/25,M2,Video,Rep10,Call with Emails
+PRESC971,6/17/25,M3,In Person,Rep11,Call Only
+PRESC970,6/16/25,M4,Video,Rep12,Call with Detail
+PRESC97,6/15/25,M5,In Person,Rep13,Call with CLM Presentation
+PRESC969,6/14/25,M6,Video,Rep14,Call with Key Messages
+PRESC968,6/13/25,M7,Presentation,Rep15,Call with Samples
+PRESC967,6/12/25,M8,In Person,Rep16,Call with Emails
+PRESC966,6/11/25,M9,Video,Rep17,Call Only
+PRESC965,6/10/25,M10,In Person,Rep18,Call with Detail
+PRESC964,6/9/25,M11,Video,Rep19,Call with CLM Presentation
+PRESC963,6/8/25,M12,In Person,Rep20,Call with Key Messages
+PRESC962,6/7/25,M13,Video,Rep1,Call with Samples
+PRESC961,6/6/25,M14,Presentation,Rep2,Call with Emails
+PRESC960,6/5/25,M1,In Person,Rep3,Call Only
+PRESC96,6/4/25,M2,Video,Rep4,Call with Detail
+PRESC959,6/3/25,M3,In Person,Rep5,Call with CLM Presentation
+PRESC958,6/2/25,M4,Video,Rep6,Call with Key Messages
+PRESC957,6/1/25,M5,In Person,Rep7,Call with Samples
+PRESC956,5/31/25,M6,Video,Rep8,Call with Emails
+PRESC955,5/30/25,M7,Presentation,Rep9,Call Only
+PRESC954,5/29/25,M8,In Person,Rep10,Call with Detail
+PRESC953,5/28/25,M9,Video,Rep11,Call with CLM Presentation
+PRESC952,5/27/25,M10,In Person,Rep12,Call with Key Messages
+PRESC951,5/26/25,M11,Video,Rep13,Call with Samples
+PRESC950,5/25/25,M12,In Person,Rep14,Call with Emails
+PRESC95,5/24/25,M13,Video,Rep15,Call Only
+PRESC949,5/23/25,M14,Presentation,Rep16,Call with Detail
+PRESC948,5/22/25,M1,In Person,Rep17,Call with CLM Presentation
+PRESC947,5/21/25,M2,Video,Rep18,Call with Key Messages
+PRESC946,5/20/25,M3,In Person,Rep19,Call with Samples
+PRESC945,5/19/25,M4,Video,Rep20,Call with Emails
+PRESC944,5/18/25,M5,In Person,Rep1,Call Only
+PRESC943,5/17/25,M6,Video,Rep2,Call with Detail
+PRESC942,5/16/25,M7,Presentation,Rep3,Call with CLM Presentation
+PRESC941,5/15/25,M8,In Person,Rep4,Call with Key Messages
+PRESC940,5/14/25,M9,Video,Rep5,Call with Samples
+PRESC94,5/13/25,M10,In Person,Rep6,Call with Emails
+PRESC939,5/12/25,M11,Video,Rep7,Call Only
+PRESC938,5/11/25,M12,In Person,Rep8,Call with Detail
+PRESC937,5/10/25,M13,Video,Rep9,Call with CLM Presentation
+PRESC936,5/9/25,M14,Presentation,Rep10,Call with Key Messages
+PRESC935,5/8/25,M1,In Person,Rep11,Call with Samples
+PRESC934,5/7/25,M2,Video,Rep12,Call with Emails
+PRESC933,5/6/25,M3,In Person,Rep13,Call Only
+PRESC932,5/5/25,M4,Video,Rep14,Call with Detail
+PRESC931,5/4/25,M5,In Person,Rep15,Call with CLM Presentation
+PRESC930,5/3/25,M6,Video,Rep16,Call with Key Messages
+PRESC93,5/2/25,M7,Presentation,Rep17,Call with Samples
+PRESC929,5/1/25,M8,In Person,Rep18,Call with Emails
+PRESC928,4/30/25,M9,Video,Rep19,Call Only
+PRESC927,4/29/25,M10,In Person,Rep20,Call with Detail
+PRESC926,4/28/25,M11,Video,Rep1,Call with CLM Presentation
+PRESC925,4/27/25,M12,In Person,Rep2,Call with Key Messages
+PRESC924,4/26/25,M13,Video,Rep3,Call with Samples
+PRESC923,4/25/25,M14,Presentation,Rep4,Call with Emails
+PRESC922,4/24/25,M1,In Person,Rep5,Call Only
+PRESC921,4/23/25,M2,Video,Rep6,Call with Detail
+PRESC920,4/22/25,M3,In Person,Rep7,Call with CLM Presentation
+PRESC92,4/21/25,M4,Video,Rep8,Call with Key Messages
+PRESC919,4/20/25,M5,In Person,Rep9,Call with Samples
+PRESC918,4/19/25,M6,Video,Rep10,Call with Emails
+PRESC917,4/18/25,M7,Presentation,Rep11,Call Only
+PRESC916,4/17/25,M8,In Person,Rep12,Call with Detail
+PRESC915,4/16/25,M9,Video,Rep13,Call with CLM Presentation
+PRESC914,4/15/25,M10,In Person,Rep14,Call with Key Messages
+PRESC913,4/14/25,M11,Video,Rep15,Call with Samples
+PRESC912,4/13/25,M12,In Person,Rep16,Call with Emails
+PRESC911,4/12/25,M13,Video,Rep17,Call Only
+PRESC910,4/11/25,M14,Presentation,Rep18,Call with Detail
+PRESC91,4/10/25,M1,In Person,Rep19,Call with CLM Presentation
+PRESC909,4/9/25,M2,Video,Rep20,Call with Key Messages
+PRESC908,4/8/25,M3,In Person,Rep1,Call with Samples
+PRESC907,4/7/25,M4,Video,Rep2,Call with Emails
+PRESC906,4/6/25,M5,In Person,Rep3,Call Only
+PRESC905,4/5/25,M6,Video,Rep4,Call with Detail
+PRESC904,4/4/25,M7,Presentation,Rep5,Call with CLM Presentation
+PRESC903,4/3/25,M8,In Person,Rep6,Call with Key Messages
+PRESC902,4/2/25,M9,Video,Rep7,Call with Samples
+PRESC901,4/1/25,M10,In Person,Rep8,Call with Emails
+PRESC900,3/31/25,M11,Video,Rep9,Call Only
+PRESC90,3/30/25,M12,In Person,Rep10,Call with Detail
+PRESC9,3/29/25,M13,Video,Rep11,Call with CLM Presentation
+PRESC899,3/28/25,M14,Presentation,Rep12,Call with Key Messages
+PRESC898,3/27/25,M1,In Person,Rep13,Call with Samples
+PRESC897,3/26/25,M2,Video,Rep14,Call with Emails
+PRESC896,3/25/25,M3,In Person,Rep15,Call Only
+PRESC895,3/24/25,M4,Video,Rep16,Call with Detail
+PRESC894,3/23/25,M5,In Person,Rep17,Call with CLM Presentation
+PRESC893,3/22/25,M6,Video,Rep18,Call with Key Messages
+PRESC892,3/21/25,M7,Presentation,Rep19,Call with Samples
+PRESC891,3/20/25,M8,In Person,Rep20,Call with Emails
+PRESC890,3/19/25,M9,Video,Rep1,Call Only
+PRESC89,3/18/25,M10,In Person,Rep2,Call with Detail
+PRESC889,3/17/25,M11,Video,Rep3,Call with CLM Presentation
+PRESC888,3/16/25,M12,In Person,Rep4,Call with Key Messages
+PRESC887,3/15/25,M13,Video,Rep5,Call with Samples
+PRESC886,3/14/25,M14,Presentation,Rep6,Call with Emails
+PRESC885,3/13/25,M1,In Person,Rep7,Call Only
+PRESC884,3/12/25,M2,Video,Rep8,Call with Detail
+PRESC883,3/11/25,M3,In Person,Rep9,Call with CLM Presentation
+PRESC882,3/10/25,M4,Video,Rep10,Call with Key Messages
+PRESC881,3/9/25,M5,In Person,Rep11,Call with Samples
+PRESC880,3/8/25,M6,Video,Rep12,Call with Emails
+PRESC88,3/7/25,M7,Presentation,Rep13,Call Only
+PRESC879,3/6/25,M8,In Person,Rep14,Call with Detail
+PRESC878,3/5/25,M9,Video,Rep15,Call with CLM Presentation
+PRESC877,3/4/25,M10,In Person,Rep16,Call with Key Messages
+PRESC876,3/3/25,M11,Video,Rep17,Call with Samples
+PRESC875,3/2/25,M12,In Person,Rep18,Call with Emails
+PRESC874,3/1/25,M13,Video,Rep19,Call Only
+PRESC873,2/28/25,M14,Presentation,Rep20,Call with Detail
+PRESC872,2/27/25,M1,In Person,Rep1,Call with CLM Presentation
+PRESC871,2/26/25,M2,Video,Rep2,Call with Key Messages
+PRESC870,2/25/25,M3,In Person,Rep3,Call with Samples
+PRESC87,2/24/25,M4,Video,Rep4,Call with Emails
+PRESC869,2/23/25,M5,In Person,Rep5,Call Only
+PRESC868,2/22/25,M6,Video,Rep6,Call with Detail
+PRESC867,2/21/25,M7,Presentation,Rep7,Call with CLM Presentation
+PRESC866,2/20/25,M8,In Person,Rep8,Call with Key Messages
+PRESC865,2/19/25,M9,Video,Rep9,Call with Samples
+PRESC864,2/18/25,M10,In Person,Rep10,Call with Emails
+PRESC863,2/17/25,M11,Video,Rep11,Call Only
+PRESC862,2/16/25,M12,In Person,Rep12,Call with Detail
+PRESC861,2/15/25,M13,Video,Rep13,Call with CLM Presentation
+PRESC860,2/14/25,M14,Presentation,Rep14,Call with Key Messages
+PRESC86,2/13/25,M1,In Person,Rep15,Call with Samples
+PRESC859,2/12/25,M2,Video,Rep16,Call with Emails
+PRESC858,2/11/25,M3,In Person,Rep17,Call Only
+PRESC857,2/10/25,M4,Video,Rep18,Call with Detail
+PRESC856,2/9/25,M5,In Person,Rep19,Call with CLM Presentation
+PRESC855,2/8/25,M6,Video,Rep20,Call with Key Messages
+PRESC854,2/7/25,M7,Presentation,Rep1,Call with Samples
+PRESC853,2/6/25,M8,In Person,Rep2,Call with Emails
+PRESC852,2/5/25,M9,Video,Rep3,Call Only
+PRESC851,2/4/25,M10,In Person,Rep4,Call with Detail
+PRESC850,2/3/25,M11,Video,Rep5,Call with CLM Presentation
+PRESC85,2/2/25,M12,In Person,Rep6,Call with Key Messages
+PRESC849,2/1/25,M13,Video,Rep7,Call with Samples
+PRESC848,1/31/25,M14,Presentation,Rep8,Call with Emails
+PRESC847,1/30/25,M1,In Person,Rep9,Call Only
+PRESC846,1/29/25,M2,Video,Rep10,Call with Detail
+PRESC845,1/28/25,M3,In Person,Rep11,Call with CLM Presentation
+PRESC844,1/27/25,M4,Video,Rep12,Call with Key Messages
+PRESC843,1/26/25,M5,In Person,Rep13,Call with Samples
+PRESC842,1/25/25,M6,Video,Rep14,Call with Emails
+PRESC841,1/24/25,M7,Presentation,Rep15,Call Only
+PRESC840,1/23/25,M8,In Person,Rep16,Call with Detail
+PRESC84,1/22/25,M9,Video,Rep17,Call with CLM Presentation
+PRESC839,1/21/25,M10,In Person,Rep18,Call with Key Messages
+PRESC838,1/20/25,M11,Video,Rep19,Call with Samples
+PRESC837,1/19/25,M12,In Person,Rep20,Call with Emails
+PRESC836,1/18/25,M13,Video,Rep1,Call Only
+PRESC835,1/17/25,M14,Presentation,Rep2,Call with Detail
+PRESC834,1/16/25,M1,In Person,Rep3,Call with CLM Presentation
+PRESC833,1/15/25,M2,Video,Rep4,Call with Key Messages
+PRESC832,1/14/25,M3,In Person,Rep5,Call with Samples
+PRESC831,1/13/25,M4,Video,Rep6,Call with Emails
+PRESC830,1/12/25,M5,In Person,Rep7,Call Only
+PRESC83,1/11/25,M6,Video,Rep8,Call with Detail
+PRESC829,1/10/25,M7,Presentation,Rep9,Call with CLM Presentation
+PRESC828,1/9/25,M8,In Person,Rep10,Call with Key Messages
+PRESC827,1/8/25,M9,Video,Rep11,Call with Samples
+PRESC826,1/7/25,M10,In Person,Rep12,Call with Emails
+PRESC825,1/6/25,M11,Video,Rep13,Call Only
+PRESC824,1/5/25,M12,In Person,Rep14,Call with Detail
+PRESC823,1/4/25,M13,Video,Rep15,Call with CLM Presentation
+PRESC822,1/3/25,M14,Presentation,Rep16,Call with Key Messages
+PRESC821,1/2/25,M1,In Person,Rep17,Call with Samples
+PRESC820,1/1/25,M2,Video,Rep18,Call with Emails
+PRESC82,12/31/24,M3,In Person,Rep19,Call Only
+PRESC819,12/30/24,M4,Video,Rep20,Call with Detail
+PRESC818,12/29/24,M5,In Person,Rep1,Call with CLM Presentation
+PRESC817,12/28/24,M6,Video,Rep2,Call with Key Messages
+PRESC816,12/27/24,M7,Presentation,Rep3,Call with Samples
+PRESC815,12/26/24,M8,In Person,Rep4,Call with Emails
+PRESC814,12/25/24,M9,Video,Rep5,Call Only
+PRESC813,12/24/24,M10,In Person,Rep6,Call with Detail
+PRESC812,12/23/24,M11,Video,Rep7,Call with CLM Presentation
+PRESC811,12/22/24,M12,In Person,Rep8,Call with Key Messages
+PRESC810,12/21/24,M13,Video,Rep9,Call with Samples
+PRESC81,12/20/24,M14,Presentation,Rep10,Call with Emails
+PRESC809,12/19/24,M1,In Person,Rep11,Call Only
+PRESC808,12/18/24,M2,Video,Rep12,Call with Detail
+PRESC807,12/17/24,M3,In Person,Rep13,Call with CLM Presentation
+PRESC806,12/16/24,M4,Video,Rep14,Call with Key Messages
+PRESC805,7/17/25,M5,In Person,Rep15,Call with Samples
+PRESC804,7/16/25,M6,Video,Rep16,Call with Emails
+PRESC803,7/15/25,M7,Presentation,Rep17,Call Only
+PRESC802,7/14/25,M8,In Person,Rep18,Call with Detail
+PRESC801,7/13/25,M9,Video,Rep19,Call with CLM Presentation
+PRESC800,7/12/25,M10,In Person,Rep20,Call with Key Messages
+PRESC80,7/11/25,M11,Video,Rep1,Call with Samples
+PRESC8,7/10/25,M12,In Person,Rep2,Call with Emails
+PRESC799,7/9/25,M13,Video,Rep3,Call Only
+PRESC798,7/8/25,M14,Presentation,Rep4,Call with Detail
+PRESC797,7/7/25,M1,In Person,Rep5,Call with CLM Presentation
+PRESC796,7/6/25,M2,Video,Rep6,Call with Key Messages
+PRESC795,7/5/25,M3,In Person,Rep7,Call with Samples
+PRESC794,7/4/25,M4,Video,Rep8,Call with Emails
+PRESC793,7/3/25,M5,In Person,Rep9,Call Only
+PRESC792,7/2/25,M6,Video,Rep10,Call with Detail
+PRESC791,7/1/25,M7,Presentation,Rep11,Call with CLM Presentation
+PRESC790,6/30/25,M8,In Person,Rep12,Call with Key Messages
+PRESC79,6/29/25,M9,Video,Rep13,Call with Samples
+PRESC789,6/28/25,M10,In Person,Rep14,Call with Emails
+PRESC788,6/27/25,M11,Video,Rep15,Call Only
+PRESC787,6/26/25,M12,In Person,Rep16,Call with Detail
+PRESC786,6/25/25,M13,Video,Rep17,Call with CLM Presentation
+PRESC785,6/24/25,M14,Presentation,Rep18,Call with Key Messages
+PRESC784,6/23/25,M1,In Person,Rep19,Call with Samples
+PRESC783,6/22/25,M2,Video,Rep20,Call with Emails
+PRESC782,6/21/25,M3,In Person,Rep1,Call Only
+PRESC781,6/20/25,M4,Video,Rep2,Call with Detail
+PRESC780,6/19/25,M5,In Person,Rep3,Call with CLM Presentation
+PRESC78,6/18/25,M6,Video,Rep4,Call with Key Messages
+PRESC779,6/17/25,M7,Presentation,Rep5,Call with Samples
+PRESC778,6/16/25,M8,In Person,Rep6,Call with Emails
+PRESC777,6/15/25,M9,Video,Rep7,Call Only
+PRESC776,6/14/25,M10,In Person,Rep8,Call with Detail
+PRESC775,6/13/25,M11,Video,Rep9,Call with CLM Presentation
+PRESC774,6/12/25,M12,In Person,Rep10,Call with Key Messages
+PRESC773,6/11/25,M13,Video,Rep11,Call with Samples
+PRESC772,6/10/25,M14,Presentation,Rep12,Call with Emails
+PRESC771,6/9/25,M1,In Person,Rep13,Call Only
+PRESC770,6/8/25,M2,Video,Rep14,Call with Detail
+PRESC77,6/7/25,M3,In Person,Rep15,Call with CLM Presentation
+PRESC769,6/6/25,M4,Video,Rep16,Call with Key Messages
+PRESC768,6/5/25,M5,In Person,Rep17,Call with Samples
+PRESC767,6/4/25,M6,Video,Rep18,Call with Emails
+PRESC766,6/3/25,M7,Presentation,Rep19,Call Only
+PRESC765,6/2/25,M8,In Person,Rep20,Call with Detail
+PRESC764,6/1/25,M9,Video,Rep1,Call with CLM Presentation
+PRESC763,5/31/25,M10,In Person,Rep2,Call with Key Messages
+PRESC762,5/30/25,M11,Video,Rep3,Call with Samples
+PRESC761,5/29/25,M12,In Person,Rep4,Call with Emails
+PRESC760,5/28/25,M13,Video,Rep5,Call Only
+PRESC76,5/27/25,M14,Presentation,Rep6,Call with Detail
+PRESC759,5/26/25,M1,In Person,Rep7,Call with CLM Presentation
+PRESC758,5/25/25,M2,Video,Rep8,Call with Key Messages
+PRESC757,5/24/25,M3,In Person,Rep9,Call with Samples
+PRESC756,5/23/25,M4,Video,Rep10,Call with Emails
+PRESC755,5/22/25,M5,In Person,Rep11,Call Only
+PRESC754,5/21/25,M6,Video,Rep12,Call with Detail
+PRESC753,5/20/25,M7,Presentation,Rep13,Call with CLM Presentation
+PRESC752,5/19/25,M8,In Person,Rep14,Call with Key Messages
+PRESC751,5/18/25,M9,Video,Rep15,Call with Samples
+PRESC750,5/17/25,M10,In Person,Rep16,Call with Emails
+PRESC75,5/16/25,M11,Video,Rep17,Call Only
+PRESC749,5/15/25,M12,In Person,Rep18,Call with Detail
+PRESC748,5/14/25,M13,Video,Rep19,Call with CLM Presentation
+PRESC747,5/13/25,M14,Presentation,Rep20,Call with Key Messages
+PRESC746,5/12/25,M1,In Person,Rep1,Call with Samples
+PRESC745,5/11/25,M2,Video,Rep2,Call with Emails
+PRESC744,5/10/25,M3,In Person,Rep3,Call Only
+PRESC743,5/9/25,M4,Video,Rep4,Call with Detail
+PRESC742,5/8/25,M5,In Person,Rep5,Call with CLM Presentation
+PRESC741,5/7/25,M6,Video,Rep6,Call with Key Messages
+PRESC740,5/6/25,M7,Presentation,Rep7,Call with Samples
+PRESC74,5/5/25,M8,In Person,Rep8,Call with Emails
+PRESC739,5/4/25,M9,Video,Rep9,Call Only
+PRESC738,5/3/25,M10,In Person,Rep10,Call with Detail
+PRESC737,5/2/25,M11,Video,Rep11,Call with CLM Presentation
+PRESC736,5/1/25,M12,In Person,Rep12,Call with Key Messages
+PRESC735,4/30/25,M13,Video,Rep13,Call with Samples
+PRESC734,4/29/25,M14,Presentation,Rep14,Call with Emails
+PRESC733,4/28/25,M1,In Person,Rep15,Call Only
+PRESC732,4/27/25,M2,Video,Rep16,Call with Detail
+PRESC731,4/26/25,M3,In Person,Rep17,Call with CLM Presentation
+PRESC730,4/25/25,M4,Video,Rep18,Call with Key Messages
+PRESC73,4/24/25,M5,In Person,Rep19,Call with Samples
+PRESC729,4/23/25,M6,Video,Rep20,Call with Emails
+PRESC728,4/22/25,M7,Presentation,Rep1,Call Only
+PRESC727,4/21/25,M8,In Person,Rep2,Call with Detail
+PRESC726,4/20/25,M9,Video,Rep3,Call with CLM Presentation
+PRESC725,4/19/25,M10,In Person,Rep4,Call with Key Messages
+PRESC724,4/18/25,M11,Video,Rep5,Call with Samples
+PRESC723,4/17/25,M12,In Person,Rep6,Call with Emails
+PRESC722,4/16/25,M13,Video,Rep7,Call Only
+PRESC721,4/15/25,M14,Presentation,Rep8,Call with Detail
+PRESC720,4/14/25,M1,In Person,Rep9,Call with CLM Presentation
+PRESC72,4/13/25,M2,Video,Rep10,Call with Key Messages
+PRESC719,4/12/25,M3,In Person,Rep11,Call with Samples
+PRESC718,4/11/25,M4,Video,Rep12,Call with Emails
+PRESC717,4/10/25,M5,In Person,Rep13,Call Only
+PRESC716,4/9/25,M6,Video,Rep14,Call with Detail
+PRESC715,4/8/25,M7,Presentation,Rep15,Call with CLM Presentation
+PRESC714,4/7/25,M8,In Person,Rep16,Call with Key Messages
+PRESC713,4/6/25,M9,Video,Rep17,Call with Samples
+PRESC712,4/5/25,M10,In Person,Rep18,Call with Emails
+PRESC711,4/4/25,M11,Video,Rep19,Call Only
+PRESC710,4/3/25,M12,In Person,Rep20,Call with Detail
+PRESC71,4/2/25,M13,Video,Rep1,Call with CLM Presentation
+PRESC709,4/1/25,M14,Presentation,Rep2,Call with Key Messages
+PRESC708,3/31/25,M1,In Person,Rep3,Call with Samples
+PRESC707,3/30/25,M2,Video,Rep4,Call with Emails
+PRESC706,3/29/25,M3,In Person,Rep5,Call Only
+PRESC705,3/28/25,M4,Video,Rep6,Call with Detail
+PRESC704,3/27/25,M5,In Person,Rep7,Call with CLM Presentation
+PRESC703,3/26/25,M6,Video,Rep8,Call with Key Messages
+PRESC702,3/25/25,M7,Presentation,Rep9,Call with Samples
+PRESC701,3/24/25,M8,In Person,Rep10,Call with Emails
+PRESC700,3/23/25,M9,Video,Rep11,Call Only
+PRESC70,3/22/25,M10,In Person,Rep12,Call with Detail
+PRESC7,3/21/25,M11,Video,Rep13,Call with CLM Presentation
+PRESC699,3/20/25,M12,In Person,Rep14,Call with Key Messages
+PRESC698,3/19/25,M13,Video,Rep15,Call with Samples
+PRESC697,3/18/25,M14,Presentation,Rep16,Call with Emails
+PRESC696,3/17/25,M1,In Person,Rep17,Call Only
+PRESC695,3/16/25,M2,Video,Rep18,Call with Detail
+PRESC694,3/15/25,M3,In Person,Rep19,Call with CLM Presentation
+PRESC693,3/14/25,M4,Video,Rep20,Call with Key Messages
+PRESC692,3/13/25,M5,In Person,Rep1,Call with Samples
+PRESC691,3/12/25,M6,Video,Rep2,Call with Emails
+PRESC690,3/11/25,M7,Presentation,Rep3,Call Only
+PRESC69,3/10/25,M8,In Person,Rep4,Call with Detail
+PRESC689,3/9/25,M9,Video,Rep5,Call with CLM Presentation
+PRESC688,3/8/25,M10,In Person,Rep6,Call with Key Messages
+PRESC687,3/7/25,M11,Video,Rep7,Call with Samples
+PRESC686,3/6/25,M12,In Person,Rep8,Call with Emails
+PRESC685,3/5/25,M13,Video,Rep9,Call Only
+PRESC684,3/4/25,M14,Presentation,Rep10,Call with Detail
+PRESC683,3/3/25,M1,In Person,Rep11,Call with CLM Presentation
+PRESC682,3/2/25,M2,Video,Rep12,Call with Key Messages
+PRESC681,3/1/25,M3,In Person,Rep13,Call with Samples
+PRESC680,2/28/25,M4,Video,Rep14,Call with Emails
+PRESC68,2/27/25,M5,In Person,Rep15,Call Only
+PRESC679,2/26/25,M6,Video,Rep16,Call with Detail
+PRESC678,2/25/25,M7,Presentation,Rep17,Call with CLM Presentation
+PRESC677,2/24/25,M8,In Person,Rep18,Call with Key Messages
+PRESC676,2/23/25,M9,Video,Rep19,Call with Samples
+PRESC675,2/22/25,M10,In Person,Rep20,Call with Emails
+PRESC674,2/21/25,M11,Video,Rep1,Call Only
+PRESC673,2/20/25,M12,In Person,Rep2,Call with Detail
+PRESC672,2/19/25,M13,Video,Rep3,Call with CLM Presentation
+PRESC671,2/18/25,M14,Presentation,Rep4,Call with Key Messages
+PRESC670,2/17/25,M1,In Person,Rep5,Call with Samples
+PRESC67,2/16/25,M2,Video,Rep6,Call with Emails
+PRESC669,2/15/25,M3,In Person,Rep7,Call Only
+PRESC668,2/14/25,M4,Video,Rep8,Call with Detail
+PRESC667,2/13/25,M5,In Person,Rep9,Call with CLM Presentation
+PRESC666,2/12/25,M6,Video,Rep10,Call with Key Messages
+PRESC665,2/11/25,M7,Presentation,Rep11,Call with Samples
+PRESC664,2/10/25,M8,In Person,Rep12,Call with Emails
+PRESC663,2/9/25,M9,Video,Rep13,Call Only
+PRESC662,2/8/25,M10,In Person,Rep14,Call with Detail
+PRESC661,2/7/25,M11,Video,Rep15,Call with CLM Presentation
+PRESC660,2/6/25,M12,In Person,Rep16,Call with Key Messages
+PRESC66,2/5/25,M13,Video,Rep17,Call with Samples
+PRESC659,2/4/25,M14,Presentation,Rep18,Call with Emails
+PRESC658,2/3/25,M1,In Person,Rep19,Call Only
+PRESC657,2/2/25,M2,Video,Rep20,Call with Detail
+PRESC656,2/1/25,M3,In Person,Rep1,Call with CLM Presentation
+PRESC655,1/31/25,M4,Video,Rep2,Call with Key Messages
+PRESC654,1/30/25,M5,In Person,Rep3,Call with Samples
+PRESC653,1/29/25,M6,Video,Rep4,Call with Emails
+PRESC652,1/28/25,M7,Presentation,Rep5,Call Only
+PRESC651,1/27/25,M8,In Person,Rep6,Call with Detail
+PRESC650,1/26/25,M9,Video,Rep7,Call with CLM Presentation
+PRESC65,1/25/25,M10,In Person,Rep8,Call with Key Messages
+PRESC649,1/24/25,M11,Video,Rep9,Call with Samples
+PRESC648,1/23/25,M12,In Person,Rep10,Call with Emails
+PRESC647,1/22/25,M13,Video,Rep11,Call Only
+PRESC646,1/21/25,M14,Presentation,Rep12,Call with Detail
+PRESC645,1/20/25,M1,In Person,Rep13,Call with CLM Presentation
+PRESC644,1/19/25,M2,Video,Rep14,Call with Key Messages
+PRESC643,1/18/25,M3,In Person,Rep15,Call with Samples
+PRESC642,1/17/25,M4,Video,Rep16,Call with Emails
+PRESC641,1/16/25,M5,In Person,Rep17,Call Only
+PRESC640,1/15/25,M6,Video,Rep18,Call with Detail
+PRESC64,1/14/25,M7,Presentation,Rep19,Call with CLM Presentation
+PRESC639,1/13/25,M8,In Person,Rep20,Call with Key Messages
+PRESC638,1/12/25,M9,Video,Rep1,Call with Samples
+PRESC637,1/11/25,M10,In Person,Rep2,Call with Emails
+PRESC636,1/10/25,M11,Video,Rep3,Call Only
+PRESC635,1/9/25,M12,In Person,Rep4,Call with Detail
+PRESC634,1/8/25,M13,Video,Rep5,Call with CLM Presentation
+PRESC633,1/7/25,M14,Presentation,Rep6,Call with Key Messages
+PRESC632,1/6/25,M1,In Person,Rep7,Call with Samples
+PRESC631,1/5/25,M2,Video,Rep8,Call with Emails
+PRESC630,1/4/25,M3,In Person,Rep9,Call Only
+PRESC63,1/3/25,M4,Video,Rep10,Call with Detail
+PRESC629,1/2/25,M5,In Person,Rep11,Call with CLM Presentation
+PRESC628,1/1/25,M6,Video,Rep12,Call with Key Messages
+PRESC627,12/31/24,M7,Presentation,Rep13,Call with Samples
+PRESC626,12/30/24,M8,In Person,Rep14,Call with Emails
+PRESC625,12/29/24,M9,Video,Rep15,Call Only
+PRESC624,12/28/24,M10,In Person,Rep16,Call with Detail
+PRESC623,12/27/24,M11,Video,Rep17,Call with CLM Presentation
+PRESC622,12/26/24,M12,In Person,Rep18,Call with Key Messages
+PRESC621,12/25/24,M13,Video,Rep19,Call with Samples
+PRESC620,12/24/24,M14,Presentation,Rep20,Call with Emails
+PRESC62,12/23/24,M1,In Person,Rep1,Call Only
+PRESC619,12/22/24,M2,Video,Rep2,Call with Detail
+PRESC618,12/21/24,M3,In Person,Rep3,Call with CLM Presentation
+PRESC617,12/20/24,M4,Video,Rep4,Call with Key Messages
+PRESC616,12/19/24,M5,In Person,Rep5,Call with Samples
+PRESC615,12/18/24,M6,Video,Rep6,Call with Emails
+PRESC614,12/17/24,M7,Presentation,Rep7,Call Only
+PRESC613,12/16/24,M8,In Person,Rep8,Call with Detail
+PRESC999,7/17/24,M9,Video,Rep9,Call with CLM Presentation
+PRESC998,7/16/24,M10,In Person,Rep10,Call with Key Messages
+PRESC997,7/15/24,M11,Video,Rep11,Call with Samples
+PRESC996,7/14/24,M12,In Person,Rep12,Call with Emails
+PRESC995,7/13/24,M13,Video,Rep13,Call Only
+PRESC994,7/12/24,M14,Presentation,Rep14,Call with Detail
+PRESC993,7/11/24,M1,In Person,Rep15,Call with CLM Presentation
+PRESC992,7/10/24,M2,Video,Rep16,Call with Key Messages
+PRESC991,7/9/24,M3,In Person,Rep17,Call with Samples
+PRESC990,7/8/24,M4,Video,Rep18,Call with Emails
+PRESC99,7/7/24,M5,In Person,Rep19,Call Only
+PRESC989,7/6/24,M6,Video,Rep20,Call with Detail
+PRESC988,7/5/24,M7,Presentation,Rep1,Call with CLM Presentation
+PRESC987,7/4/24,M8,In Person,Rep2,Call with Key Messages
+PRESC986,7/3/24,M9,Video,Rep3,Call with Samples
+PRESC985,7/2/24,M10,In Person,Rep4,Call with Emails
+PRESC984,7/1/24,M11,Video,Rep5,Call Only
+PRESC983,6/30/24,M12,In Person,Rep6,Call with Detail
+PRESC982,6/29/24,M13,Video,Rep7,Call with CLM Presentation
+PRESC981,6/28/24,M14,Presentation,Rep8,Call with Key Messages
+PRESC980,6/27/24,M1,In Person,Rep9,Call with Samples
+PRESC98,6/26/24,M2,Video,Rep10,Call with Emails
+PRESC979,6/25/24,M3,In Person,Rep11,Call Only
+PRESC978,6/24/24,M4,Video,Rep12,Call with Detail
+PRESC977,6/23/24,M5,In Person,Rep13,Call with CLM Presentation
+PRESC976,6/22/24,M6,Video,Rep14,Call with Key Messages
+PRESC975,6/21/24,M7,Presentation,Rep15,Call with Samples
+PRESC974,6/20/24,M8,In Person,Rep16,Call with Emails
+PRESC973,6/19/24,M9,Video,Rep17,Call Only
+PRESC972,6/18/24,M10,In Person,Rep18,Call with Detail
+PRESC971,6/17/24,M11,Video,Rep19,Call with CLM Presentation
+PRESC970,6/16/24,M12,In Person,Rep20,Call with Key Messages
+PRESC97,6/15/24,M13,Video,Rep1,Call with Samples
+PRESC969,6/14/24,M14,Presentation,Rep2,Call with Emails
+PRESC968,6/13/24,M1,In Person,Rep3,Call Only
+PRESC967,6/12/24,M2,Video,Rep4,Call with Detail
+PRESC966,6/11/24,M3,In Person,Rep5,Call with CLM Presentation
+PRESC965,6/10/24,M4,Video,Rep6,Call with Key Messages
+PRESC964,6/9/24,M5,In Person,Rep7,Call with Samples
+PRESC963,6/8/24,M6,Video,Rep8,Call with Emails
+PRESC962,6/7/24,M7,Presentation,Rep9,Call Only
+PRESC961,6/6/24,M8,In Person,Rep10,Call with Detail
+PRESC960,6/5/24,M9,Video,Rep11,Call with CLM Presentation
+PRESC96,6/4/24,M10,In Person,Rep12,Call with Key Messages
+PRESC959,6/3/24,M11,Video,Rep13,Call with Samples
+PRESC958,6/2/24,M12,In Person,Rep14,Call with Emails
+PRESC957,6/1/24,M13,Video,Rep15,Call Only
+PRESC956,5/31/24,M14,Presentation,Rep16,Call with Detail
+PRESC955,5/30/24,M1,In Person,Rep17,Call with CLM Presentation
+PRESC954,5/29/24,M2,Video,Rep18,Call with Key Messages
+PRESC953,5/28/24,M3,In Person,Rep19,Call with Samples
+PRESC952,5/27/24,M4,Video,Rep20,Call with Emails
+PRESC951,5/26/24,M5,In Person,Rep1,Call Only
+PRESC950,5/25/24,M6,Video,Rep2,Call with Detail
+PRESC95,5/24/24,M7,Presentation,Rep3,Call with CLM Presentation
+PRESC949,5/23/24,M8,In Person,Rep4,Call with Key Messages
+PRESC948,5/22/24,M9,Video,Rep5,Call with Samples
+PRESC947,5/21/24,M10,In Person,Rep6,Call with Emails
+PRESC946,5/20/24,M11,Video,Rep7,Call Only
+PRESC945,5/19/24,M12,In Person,Rep8,Call with Detail
+PRESC944,5/18/24,M13,Video,Rep9,Call with CLM Presentation
+PRESC943,5/17/24,M14,Presentation,Rep10,Call with Key Messages
+PRESC942,5/16/24,M1,In Person,Rep11,Call with Samples
+PRESC941,5/15/24,M2,Video,Rep12,Call with Emails
+PRESC940,5/14/24,M3,In Person,Rep13,Call Only
+PRESC94,5/13/24,M4,Video,Rep14,Call with Detail
+PRESC939,5/12/24,M5,In Person,Rep15,Call with CLM Presentation
+PRESC938,5/11/24,M6,Video,Rep16,Call with Key Messages
+PRESC937,5/10/24,M7,Presentation,Rep17,Call with Samples
+PRESC936,5/9/24,M8,In Person,Rep18,Call with Emails
+PRESC935,5/8/24,M9,Video,Rep19,Call Only
+PRESC934,5/7/24,M10,In Person,Rep20,Call with Detail
+PRESC933,5/6/24,M11,Video,Rep1,Call with CLM Presentation
+PRESC932,5/5/24,M12,In Person,Rep2,Call with Key Messages
+PRESC931,5/4/24,M13,Video,Rep3,Call with Samples
+PRESC930,5/3/24,M14,Presentation,Rep4,Call with Emails
+PRESC93,5/2/24,M1,In Person,Rep5,Call Only
+PRESC929,5/1/24,M2,Video,Rep6,Call with Detail
+PRESC928,4/30/24,M3,In Person,Rep7,Call with CLM Presentation
+PRESC927,4/29/24,M4,Video,Rep8,Call with Key Messages
+PRESC926,4/28/24,M5,In Person,Rep9,Call with Samples
+PRESC925,4/27/24,M6,Video,Rep10,Call with Emails
+PRESC924,4/26/24,M7,Presentation,Rep11,Call Only
+PRESC923,4/25/24,M8,In Person,Rep12,Call with Detail
+PRESC922,4/24/24,M9,Video,Rep13,Call with CLM Presentation
+PRESC921,4/23/24,M10,In Person,Rep14,Call with Key Messages
+PRESC920,4/22/24,M11,Video,Rep15,Call with Samples
+PRESC92,4/21/24,M12,In Person,Rep16,Call with Emails
+PRESC919,4/20/24,M13,Video,Rep17,Call Only
+PRESC918,4/19/24,M14,Presentation,Rep18,Call with Detail
+PRESC917,4/18/24,M1,In Person,Rep19,Call with CLM Presentation
+PRESC916,4/17/24,M2,Video,Rep20,Call with Key Messages
+PRESC915,4/16/24,M3,In Person,Rep1,Call with Samples
+PRESC914,4/15/24,M4,Video,Rep2,Call with Emails
+PRESC913,4/14/24,M5,In Person,Rep3,Call Only
+PRESC912,4/13/24,M6,Video,Rep4,Call with Detail
+PRESC911,4/12/24,M7,Presentation,Rep5,Call with CLM Presentation
+PRESC910,4/11/24,M8,In Person,Rep6,Call with Key Messages
+PRESC91,4/10/24,M9,Video,Rep7,Call with Samples
+PRESC909,4/9/24,M10,In Person,Rep8,Call with Emails
+PRESC908,4/8/24,M11,Video,Rep9,Call Only
+PRESC907,4/7/24,M12,In Person,Rep10,Call with Detail
+PRESC906,4/6/24,M13,Video,Rep11,Call with CLM Presentation
+PRESC905,4/5/24,M14,Presentation,Rep12,Call with Key Messages
+PRESC904,4/4/24,M1,In Person,Rep13,Call with Samples
+PRESC903,4/3/24,M2,Video,Rep14,Call with Emails
+PRESC902,4/2/24,M3,In Person,Rep15,Call Only
+PRESC901,4/1/24,M4,Video,Rep16,Call with Detail
+PRESC900,3/31/24,M5,In Person,Rep17,Call with CLM Presentation
+PRESC90,3/30/24,M6,Video,Rep18,Call with Key Messages
+PRESC9,3/29/24,M7,Presentation,Rep19,Call with Samples
+PRESC899,3/28/24,M8,In Person,Rep20,Call with Emails
+PRESC898,3/27/24,M9,Video,Rep1,Call Only
+PRESC897,3/26/24,M10,In Person,Rep2,Call with Detail
+PRESC896,3/25/24,M11,Video,Rep3,Call with CLM Presentation
+PRESC895,3/24/24,M12,In Person,Rep4,Call with Key Messages
+PRESC894,3/23/24,M13,Video,Rep5,Call with Samples
+PRESC893,3/22/24,M14,Presentation,Rep6,Call with Emails
+PRESC892,3/21/24,M1,In Person,Rep7,Call Only
+PRESC891,3/20/24,M2,Video,Rep8,Call with Detail
+PRESC890,3/19/24,M3,In Person,Rep9,Call with CLM Presentation
+PRESC89,3/18/24,M4,Video,Rep10,Call with Key Messages
+PRESC889,3/17/24,M5,In Person,Rep11,Call with Samples
+PRESC888,3/16/24,M6,Video,Rep12,Call with Emails
+PRESC887,3/15/24,M7,Presentation,Rep13,Call Only
+PRESC886,3/14/24,M8,In Person,Rep14,Call with Detail
+PRESC885,3/13/24,M9,Video,Rep15,Call with CLM Presentation
+PRESC884,3/12/24,M10,In Person,Rep16,Call with Key Messages
+PRESC883,3/11/24,M11,Video,Rep17,Call with Samples
+PRESC882,3/10/24,M12,In Person,Rep18,Call with Emails
+PRESC881,3/9/24,M13,Video,Rep19,Call Only
+PRESC880,3/8/24,M14,Presentation,Rep20,Call with Detail
+PRESC88,3/7/24,M1,In Person,Rep1,Call with CLM Presentation
+PRESC879,3/6/24,M2,Video,Rep2,Call with Key Messages
+PRESC878,3/5/24,M3,In Person,Rep3,Call with Samples
+PRESC877,3/4/24,M4,Video,Rep4,Call with Emails
+PRESC876,3/3/24,M5,In Person,Rep5,Call Only
+PRESC875,3/2/24,M6,Video,Rep6,Call with Detail
+PRESC874,3/1/24,M7,Presentation,Rep7,Call with CLM Presentation
+PRESC873,2/29/24,M8,In Person,Rep8,Call with Key Messages
+PRESC872,2/28/24,M9,Video,Rep9,Call with Samples
+PRESC871,2/27/24,M10,In Person,Rep10,Call with Emails
+PRESC870,2/26/24,M11,Video,Rep11,Call Only
+PRESC87,2/25/24,M12,In Person,Rep12,Call with Detail
+PRESC869,2/24/24,M13,Video,Rep13,Call with CLM Presentation
+PRESC868,2/23/24,M14,Presentation,Rep14,Call with Key Messages
+PRESC867,2/22/24,M1,In Person,Rep15,Call with Samples
+PRESC866,2/21/24,M2,Video,Rep16,Call with Emails
+PRESC865,2/20/24,M3,In Person,Rep17,Call Only
+PRESC864,2/19/24,M4,Video,Rep18,Call with Detail
+PRESC863,2/18/24,M5,In Person,Rep19,Call with CLM Presentation
+PRESC862,2/17/24,M6,Video,Rep20,Call with Key Messages
+PRESC861,2/16/24,M7,Presentation,Rep1,Call with Samples
+PRESC860,2/15/24,M8,In Person,Rep2,Call with Emails
+PRESC86,2/14/24,M9,Video,Rep3,Call Only
+PRESC859,2/13/24,M10,In Person,Rep4,Call with Detail
+PRESC858,2/12/24,M11,Video,Rep5,Call with CLM Presentation
+PRESC857,2/11/24,M12,In Person,Rep6,Call with Key Messages
+PRESC856,2/10/24,M13,Video,Rep7,Call with Samples
+PRESC855,2/9/24,M14,Presentation,Rep8,Call with Emails
+PRESC854,2/8/24,M1,In Person,Rep9,Call Only
+PRESC853,2/7/24,M2,Video,Rep10,Call with Detail
+PRESC852,2/6/24,M3,In Person,Rep11,Call with CLM Presentation
+PRESC851,2/5/24,M4,Video,Rep12,Call with Key Messages
+PRESC850,2/4/24,M5,In Person,Rep13,Call with Samples
+PRESC85,2/3/24,M6,Video,Rep14,Call with Emails
+PRESC849,2/2/24,M7,Presentation,Rep15,Call Only
+PRESC848,2/1/24,M8,In Person,Rep16,Call with Detail
+PRESC847,1/31/24,M9,Video,Rep17,Call with CLM Presentation
+PRESC846,1/30/24,M10,In Person,Rep18,Call with Key Messages
+PRESC845,1/29/24,M11,Video,Rep19,Call with Samples
+PRESC844,1/28/24,M12,In Person,Rep20,Call with Emails
+PRESC843,1/27/24,M13,Video,Rep1,Call Only
+PRESC842,1/26/24,M14,Presentation,Rep2,Call with Detail
+PRESC841,1/25/24,M1,In Person,Rep3,Call with CLM Presentation
+PRESC840,1/24/24,M2,Video,Rep4,Call with Key Messages
+PRESC84,1/23/24,M3,In Person,Rep5,Call with Samples
+PRESC839,1/22/24,M4,Video,Rep6,Call with Emails
+PRESC838,1/21/24,M5,In Person,Rep7,Call Only
+PRESC837,1/20/24,M6,Video,Rep8,Call with Detail
+PRESC836,1/19/24,M7,Presentation,Rep9,Call with CLM Presentation
+PRESC835,1/18/24,M8,In Person,Rep10,Call with Key Messages
+PRESC834,1/17/24,M9,Video,Rep11,Call with Samples
+PRESC833,1/16/24,M10,In Person,Rep12,Call with Emails
+PRESC832,1/15/24,M11,Video,Rep13,Call Only
+PRESC831,1/14/24,M12,In Person,Rep14,Call with Detail
+PRESC830,1/13/24,M13,Video,Rep15,Call with CLM Presentation
+PRESC83,1/12/24,M14,Presentation,Rep16,Call with Key Messages
+PRESC829,1/11/24,M1,In Person,Rep17,Call with Samples
+PRESC828,1/10/24,M2,Video,Rep18,Call with Emails
+PRESC827,1/9/24,M3,In Person,Rep19,Call Only
+PRESC826,1/8/24,M4,Video,Rep20,Call with Detail
+PRESC825,1/7/24,M5,In Person,Rep1,Call with CLM Presentation
+PRESC824,1/6/24,M6,Video,Rep2,Call with Key Messages
+PRESC823,1/5/24,M7,Presentation,Rep3,Call with Samples
+PRESC822,1/4/24,M8,In Person,Rep4,Call with Emails
+PRESC821,1/3/24,M9,Video,Rep5,Call Only
+PRESC820,1/2/24,M10,In Person,Rep6,Call with Detail
+PRESC82,1/1/24,M11,Video,Rep7,Call with CLM Presentation
+PRESC819,12/31/23,M12,In Person,Rep8,Call with Key Messages
+PRESC818,12/30/23,M13,Video,Rep9,Call with Samples
+PRESC817,12/29/23,M14,Presentation,Rep10,Call with Emails
+PRESC816,12/28/23,M1,In Person,Rep11,Call Only
+PRESC815,12/27/23,M2,Video,Rep12,Call with Detail
+PRESC814,12/26/23,M3,In Person,Rep13,Call with CLM Presentation
+PRESC813,12/25/23,M4,Video,Rep14,Call with Key Messages
+PRESC812,12/24/23,M5,In Person,Rep15,Call with Samples
+PRESC811,12/23/23,M6,Video,Rep16,Call with Emails
+PRESC810,12/22/23,M7,Presentation,Rep17,Call Only
+PRESC81,12/21/23,M8,In Person,Rep18,Call with Detail
+PRESC809,12/20/23,M9,Video,Rep19,Call with CLM Presentation
+PRESC808,12/19/23,M10,In Person,Rep20,Call with Key Messages
+PRESC807,12/18/23,M11,Video,Rep1,Call with Samples
+PRESC806,12/17/23,M12,In Person,Rep2,Call with Emails
+PRESC805,12/16/23,M13,Video,Rep3,Call Only
+PRESC804,12/15/23,M14,Presentation,Rep4,Call with Detail
+PRESC803,12/14/23,M1,In Person,Rep5,Call with CLM Presentation
+PRESC802,12/13/23,M2,Video,Rep6,Call with Key Messages
+PRESC801,12/12/23,M3,In Person,Rep7,Call with Samples
+PRESC800,12/11/23,M4,Video,Rep8,Call with Emails
+PRESC80,12/10/23,M5,In Person,Rep9,Call Only
+PRESC8,12/9/23,M6,Video,Rep10,Call with Detail
+PRESC799,12/8/23,M7,Presentation,Rep11,Call with CLM Presentation
+PRESC798,12/7/23,M8,In Person,Rep12,Call with Key Messages
+PRESC797,12/6/23,M9,Video,Rep13,Call with Samples
+PRESC796,12/5/23,M10,In Person,Rep14,Call with Emails
+PRESC795,12/4/23,M11,Video,Rep15,Call Only
+PRESC794,12/3/23,M12,In Person,Rep16,Call with Detail
+PRESC793,12/2/23,M13,Video,Rep17,Call with CLM Presentation
+PRESC792,12/1/23,M14,Presentation,Rep18,Call with Key Messages
+PRESC791,11/30/23,M1,In Person,Rep19,Call with Samples
+PRESC790,11/29/23,M2,Video,Rep20,Call with Emails
+PRESC79,11/28/23,M3,In Person,Rep1,Call Only
+PRESC789,11/27/23,M4,Video,Rep2,Call with Detail
+PRESC788,11/26/23,M5,In Person,Rep3,Call with CLM Presentation
+PRESC787,11/25/23,M6,Video,Rep4,Call with Key Messages
+PRESC786,11/24/23,M7,Presentation,Rep5,Call with Samples
+PRESC785,11/23/23,M8,In Person,Rep6,Call with Emails
+PRESC784,11/22/23,M9,Video,Rep7,Call Only
+PRESC783,11/21/23,M10,In Person,Rep8,Call with Detail
+PRESC782,11/20/23,M11,Video,Rep9,Call with CLM Presentation
+PRESC781,11/19/23,M12,In Person,Rep10,Call with Key Messages
+PRESC780,11/18/23,M13,Video,Rep11,Call with Samples
+PRESC78,11/17/23,M14,Presentation,Rep12,Call with Emails
+PRESC779,11/16/23,M1,In Person,Rep13,Call Only
+PRESC778,11/15/23,M2,Video,Rep14,Call with Detail
+PRESC777,11/14/23,M3,In Person,Rep15,Call with CLM Presentation
+PRESC776,11/13/23,M4,Video,Rep16,Call with Key Messages
+PRESC775,11/12/23,M5,In Person,Rep17,Call with Samples
+PRESC774,11/11/23,M6,Video,Rep18,Call with Emails
+PRESC773,11/10/23,M7,Presentation,Rep19,Call Only
+PRESC772,11/9/23,M8,In Person,Rep20,Call with Detail
+PRESC771,11/8/23,M9,Video,Rep1,Call with CLM Presentation
+PRESC770,11/7/23,M10,In Person,Rep2,Call with Key Messages
+PRESC77,11/6/23,M11,Video,Rep3,Call with Samples
+PRESC769,11/5/23,M12,In Person,Rep4,Call with Emails
+PRESC768,11/4/23,M13,Video,Rep5,Call Only
+PRESC767,11/3/23,M14,Presentation,Rep6,Call with Detail
+PRESC766,11/2/23,M1,In Person,Rep7,Call with CLM Presentation
+PRESC765,11/1/23,M2,Video,Rep8,Call with Key Messages
+PRESC764,10/31/23,M3,In Person,Rep9,Call with Samples
+PRESC763,10/30/23,M4,Video,Rep10,Call with Emails
+PRESC762,10/29/23,M5,In Person,Rep11,Call Only
+PRESC761,10/28/23,M6,Video,Rep12,Call with Detail
+PRESC760,10/27/23,M7,Presentation,Rep13,Call with CLM Presentation
+PRESC76,10/26/23,M8,In Person,Rep14,Call with Key Messages
+PRESC759,10/25/23,M9,Video,Rep15,Call with Samples
+PRESC758,10/24/23,M10,In Person,Rep16,Call with Emails
+PRESC757,10/23/23,M11,Video,Rep17,Call Only
+PRESC756,10/22/23,M12,In Person,Rep18,Call with Detail
+PRESC755,10/21/23,M13,Video,Rep19,Call with CLM Presentation
+PRESC754,10/20/23,M14,Presentation,Rep20,Call with Key Messages
+PRESC753,10/19/23,M1,In Person,Rep1,Call with Samples
+PRESC752,10/18/23,M2,Video,Rep2,Call with Emails
+PRESC751,10/17/23,M3,In Person,Rep3,Call Only
+PRESC750,10/16/23,M4,Video,Rep4,Call with Detail
+PRESC75,10/15/23,M5,In Person,Rep5,Call with CLM Presentation
+PRESC749,10/14/23,M6,Video,Rep6,Call with Key Messages
+PRESC748,10/13/23,M7,Presentation,Rep7,Call with Samples
+PRESC747,10/12/23,M8,In Person,Rep8,Call with Emails
+PRESC746,10/11/23,M9,Video,Rep9,Call Only
+PRESC745,10/10/23,M10,In Person,Rep10,Call with Detail
+PRESC744,10/9/23,M11,Video,Rep11,Call with CLM Presentation
+PRESC743,10/8/23,M12,In Person,Rep12,Call with Key Messages
+PRESC742,10/7/23,M13,Video,Rep13,Call with Samples
+PRESC741,10/6/23,M14,Presentation,Rep14,Call with Emails
+PRESC740,10/5/23,M1,In Person,Rep15,Call Only
+PRESC74,10/4/23,M2,Video,Rep16,Call with Detail
+PRESC739,10/3/23,M3,In Person,Rep17,Call with CLM Presentation
+PRESC738,10/2/23,M4,Video,Rep18,Call with Key Messages
+PRESC737,10/1/23,M5,In Person,Rep19,Call with Samples
+PRESC736,9/30/23,M6,Video,Rep20,Call with Emails
+PRESC735,9/29/23,M7,Presentation,Rep1,Call Only
+PRESC734,9/28/23,M8,In Person,Rep2,Call with Detail
+PRESC733,9/27/23,M9,Video,Rep3,Call with CLM Presentation
+PRESC732,9/26/23,M10,In Person,Rep4,Call with Key Messages
+PRESC731,9/25/23,M11,Video,Rep5,Call with Samples
+PRESC730,9/24/23,M12,In Person,Rep6,Call with Emails
+PRESC73,9/23/23,M13,Video,Rep7,Call Only
+PRESC729,9/22/23,M14,Presentation,Rep8,Call with Detail
+PRESC728,9/21/23,M1,In Person,Rep9,Call with CLM Presentation
+PRESC727,9/20/23,M2,Video,Rep10,Call with Key Messages
+PRESC726,9/19/23,M3,In Person,Rep11,Call with Samples
+PRESC725,9/18/23,M4,Video,Rep12,Call with Emails
+PRESC724,9/17/23,M5,In Person,Rep13,Call Only
+PRESC723,9/16/23,M6,Video,Rep14,Call with Detail
+PRESC722,9/15/23,M7,Presentation,Rep15,Call with CLM Presentation
+PRESC721,9/14/23,M8,In Person,Rep16,Call with Key Messages
+PRESC720,9/13/23,M9,Video,Rep17,Call with Samples
+PRESC72,9/12/23,M10,In Person,Rep18,Call with Emails
+PRESC719,9/11/23,M11,Video,Rep19,Call Only
+PRESC718,9/10/23,M12,In Person,Rep20,Call with Detail
+PRESC717,9/9/23,M13,Video,Rep1,Call with CLM Presentation
+PRESC716,9/8/23,M14,Presentation,Rep2,Call with Key Messages
+PRESC715,9/7/23,M1,In Person,Rep3,Call with Samples
+PRESC714,9/6/23,M2,Video,Rep4,Call with Emails
+PRESC713,9/5/23,M3,In Person,Rep5,Call Only
+PRESC712,9/4/23,M4,Video,Rep6,Call with Detail
+PRESC711,9/3/23,M5,In Person,Rep7,Call with CLM Presentation
+PRESC710,9/2/23,M6,Video,Rep8,Call with Key Messages
+PRESC71,9/1/23,M7,Presentation,Rep9,Call with Samples
+PRESC709,8/31/23,M8,In Person,Rep10,Call with Emails
+PRESC708,8/30/23,M9,Video,Rep11,Call Only
+PRESC707,8/29/23,M10,In Person,Rep12,Call with Detail
+PRESC706,8/28/23,M11,Video,Rep13,Call with CLM Presentation
+PRESC705,8/27/23,M12,In Person,Rep14,Call with Key Messages
+PRESC704,8/26/23,M13,Video,Rep15,Call with Samples
+PRESC703,8/25/23,M14,Presentation,Rep16,Call with Emails
+PRESC702,8/24/23,M1,In Person,Rep17,Call Only
+PRESC701,8/23/23,M2,Video,Rep18,Call with Detail
+PRESC700,8/22/23,M3,In Person,Rep19,Call with CLM Presentation
+PRESC70,8/21/23,M4,Video,Rep20,Call with Key Messages
+PRESC7,8/20/23,M5,In Person,Rep1,Call with Samples
+PRESC699,8/19/23,M6,Video,Rep2,Call with Emails
+PRESC698,8/18/23,M7,Presentation,Rep3,Call Only
+PRESC697,8/17/23,M8,In Person,Rep4,Call with Detail
+PRESC696,8/16/23,M9,Video,Rep5,Call with CLM Presentation
+PRESC695,8/15/23,M10,In Person,Rep6,Call with Key Messages
+PRESC694,8/14/23,M11,Video,Rep7,Call with Samples
+PRESC693,8/13/23,M12,In Person,Rep8,Call with Emails
+PRESC692,8/12/23,M13,Video,Rep9,Call Only
+PRESC691,8/11/23,M14,Presentation,Rep10,Call with Detail
+PRESC690,8/10/23,M1,In Person,Rep11,Call with CLM Presentation
+PRESC69,8/9/23,M2,Video,Rep12,Call with Key Messages
+PRESC689,8/8/23,M3,In Person,Rep13,Call with Samples
+PRESC688,8/7/23,M4,Video,Rep14,Call with Emails
+PRESC687,8/6/23,M5,In Person,Rep15,Call Only
+PRESC686,8/5/23,M6,Video,Rep16,Call with Detail
+PRESC685,8/4/23,M7,Presentation,Rep17,Call with CLM Presentation
+PRESC684,8/3/23,M8,In Person,Rep18,Call with Key Messages
+PRESC683,8/2/23,M9,Video,Rep19,Call with Samples
+PRESC682,8/1/23,M10,In Person,Rep20,Call with Emails
+PRESC681,7/31/23,M11,Video,Rep1,Call Only
+PRESC680,7/30/23,M12,In Person,Rep2,Call with Detail
+PRESC68,7/29/23,M13,Video,Rep3,Call with CLM Presentation
+PRESC679,7/28/23,M14,Presentation,Rep4,Call with Key Messages
+PRESC678,7/27/23,M1,In Person,Rep5,Call with Samples
+PRESC677,7/26/23,M2,Video,Rep6,Call with Emails
+PRESC676,7/25/23,M3,In Person,Rep7,Call Only
+PRESC675,7/24/23,M4,Video,Rep8,Call with Detail
+PRESC674,7/23/23,M5,In Person,Rep9,Call with CLM Presentation
+PRESC673,7/22/23,M6,Video,Rep10,Call with Key Messages
+PRESC672,7/21/23,M7,Presentation,Rep11,Call with Samples
+PRESC671,7/20/23,M8,In Person,Rep12,Call with Emails
+PRESC670,7/19/23,M9,Video,Rep13,Call Only
+PRESC67,7/18/23,M10,In Person,Rep14,Call with Detail
+PRESC669,7/17/23,M11,Video,Rep15,Call with CLM Presentation
+PRESC668,7/16/23,M12,In Person,Rep16,Call with Key Messages
+PRESC667,7/15/23,M13,Video,Rep17,Call with Samples
+PRESC666,7/14/23,M14,Presentation,Rep18,Call with Emails
+PRESC665,7/13/23,M1,In Person,Rep19,Call Only
+PRESC664,7/12/23,M2,Video,Rep20,Call with Detail
+PRESC663,7/11/23,M3,In Person,Rep1,Call with CLM Presentation
+PRESC662,7/10/23,M4,Video,Rep2,Call with Key Messages
+PRESC661,7/9/23,M5,In Person,Rep3,Call with Samples
+PRESC660,7/8/23,M6,Video,Rep4,Call with Emails
+PRESC66,7/7/23,M7,Presentation,Rep5,Call Only
+PRESC659,7/6/23,M8,In Person,Rep6,Call with Detail
+PRESC658,7/5/23,M9,Video,Rep7,Call with CLM Presentation
+PRESC657,7/4/23,M10,In Person,Rep8,Call with Key Messages
+PRESC656,7/3/23,M11,Video,Rep9,Call with Samples
+PRESC655,7/2/23,M12,In Person,Rep10,Call with Emails
+PRESC654,7/1/23,M13,Video,Rep11,Call Only
+PRESC653,6/30/23,M14,Presentation,Rep12,Call with Detail
+PRESC652,6/29/23,M1,In Person,Rep13,Call with CLM Presentation
+PRESC651,6/28/23,M2,Video,Rep14,Call with Key Messages
+PRESC650,6/27/23,M3,In Person,Rep15,Call with Samples
+PRESC65,6/26/23,M4,Video,Rep16,Call with Emails
+PRESC649,6/25/23,M5,In Person,Rep17,Call Only
+PRESC648,6/24/23,M6,Video,Rep18,Call with Detail
+PRESC647,6/23/23,M7,Presentation,Rep19,Call with CLM Presentation
+PRESC646,6/22/23,M8,In Person,Rep20,Call with Key Messages
+PRESC645,6/21/23,M9,Video,Rep1,Call with Samples
+PRESC644,6/20/23,M10,In Person,Rep2,Call with Emails
+PRESC643,6/19/23,M11,Video,Rep3,Call Only
+PRESC642,6/18/23,M12,In Person,Rep4,Call with Detail
+PRESC641,6/17/23,M13,Video,Rep5,Call with CLM Presentation
+PRESC640,6/16/23,M14,Presentation,Rep6,Call with Key Messages
+PRESC64,6/15/23,M1,In Person,Rep7,Call with Samples
+PRESC639,6/14/23,M2,Video,Rep8,Call with Emails
+PRESC638,6/13/23,M3,In Person,Rep9,Call Only
+PRESC637,6/12/23,M4,Video,Rep10,Call with Detail
+PRESC636,6/11/23,M5,In Person,Rep11,Call with CLM Presentation
+PRESC635,6/10/23,M6,Video,Rep12,Call with Key Messages
+PRESC634,6/9/23,M7,Presentation,Rep13,Call with Samples
+PRESC633,6/8/23,M8,In Person,Rep14,Call with Emails
+PRESC632,6/7/23,M9,Video,Rep15,Call Only
+PRESC631,6/6/23,M10,In Person,Rep16,Call with Detail
+PRESC630,6/5/23,M11,Video,Rep17,Call with CLM Presentation
+PRESC63,6/4/23,M12,In Person,Rep18,Call with Key Messages
+PRESC629,6/3/23,M13,Video,Rep19,Call with Samples
+PRESC628,6/2/23,M14,Presentation,Rep20,Call with Emails
+PRESC627,6/1/23,M1,In Person,Rep1,Call Only
+PRESC626,5/31/23,M2,Video,Rep2,Call with Detail
+PRESC625,5/30/23,M3,In Person,Rep3,Call with CLM Presentation
+PRESC624,5/29/23,M4,Video,Rep4,Call with Key Messages
+PRESC623,5/28/23,M5,In Person,Rep5,Call with Samples
+PRESC622,5/27/23,M6,Video,Rep6,Call with Emails
+PRESC621,5/26/23,M7,Presentation,Rep7,Call Only
+PRESC620,5/25/23,M8,In Person,Rep8,Call with Detail
+PRESC62,5/24/23,M9,Video,Rep9,Call with CLM Presentation
+PRESC619,5/23/23,M10,In Person,Rep10,Call with Key Messages
+PRESC618,5/22/23,M11,Video,Rep11,Call with Samples
+PRESC617,5/21/23,M12,In Person,Rep12,Call with Emails
+PRESC616,5/20/23,M13,Video,Rep13,Call Only
+PRESC615,5/19/23,M14,Presentation,Rep14,Call with Detail
+PRESC614,5/18/23,M1,In Person,Rep15,Call with CLM Presentation
+PRESC613,5/17/23,M2,Video,Rep16,Call with Key Messages
